@@ -24,7 +24,7 @@ This project fetches live weather data from the **OpenWeatherMap API** and displ
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** [React](https://react.dev/), [Vite](https://vitejs.dev/)
 - **Styling & Components:** [Material UI (MUI)](https://mui.com/), [Emotion](https://emotion.sh/)
