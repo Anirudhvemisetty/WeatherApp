@@ -38,22 +38,22 @@ This project fetches live weather data from the **OpenWeatherMap API** and displ
 ```bash
 WeatherApp/
 ├── public/
-│   └── vite.svg              # Vite Logo
+│   └── vite.svg              
 ├── src/
 │   ├── assets/
-│   │   └── react.svg         # React Logo
-│   ├── components/           # Reusable UI Components
-│   │   ├── InfoBox.css       # Styles for InfoBox
-│   │   ├── InfoBox.jsx       # Displays weather details & dynamic images
-│   │   ├── SearchBox.css     # Styles for SearchBox
-│   │   ├── SearchBox.jsx     # Handles search input & API calls
-│   │   └── WeatherApp.jsx    # Main container component managing state
-│   ├── App.css               # Global app styles
-│   ├── App.jsx               # Root component
-│   ├── index.css             # Base CSS reset
-│   └── main.jsx              # Application entry point
+│   │   └── react.svg         
+│   ├── components/           
+│   │   ├── InfoBox.css       
+│   │   ├── InfoBox.jsx      
+│   │   ├── SearchBox.css    
+│   │   ├── SearchBox.jsx     
+│   │   └── WeatherApp.jsx    
+│   ├── App.css              
+│   ├── App.jsx             
+│   ├── index.css            
+│   └── main.jsx           
 ├── .gitignore
-├── eslint.config.js          # ESLint configuration
-├── index.html                # HTML entry point
-├── package.json              # Dependencies and scripts
-└── vite.config.js            # Vite configuration
+├── eslint.config.js      
+├── index.html                
+├── package.json              
+└── vite.config.js            
