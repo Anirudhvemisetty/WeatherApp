@@ -8,19 +8,19 @@ This project fetches live weather data from the **OpenWeatherMap API** and displ
 
 ##  Features
 
-✔ **Search Functionality:** Search weather by specific city name.  
-✔ **Detailed Metrics:** Displays:
+ **Search Functionality:** Search weather by specific city name.  
+ **Detailed Metrics:** Displays:
 -  Current Temperature
 -  Humidity
 -  Min & Max Temperature
 -  "Feels Like" Temperature
 -  Weather description (e.g., haze, clear sky)  
-✔ **Dynamic UI:**
+ **Dynamic UI:**
 - Changes background images (Hot , Cold , Rain ) based on temperature and humidity.
 - Displays contextual icons (Sun, Snowflake, Thunderstorm) depending on the weather.
-✔ **Error Handling:** Gracefully handles invalid city names with user feedback.
-✔ **Clean Design:** Built with **Material UI** components (Cards, TextFields, Buttons).
-✔ **Performance:** Powered by **Vite** for fast development and optimized builds.
+ **Error Handling:** Gracefully handles invalid city names with user feedback.
+ **Clean Design:** Built with **Material UI** components (Cards, TextFields, Buttons).
+ **Performance:** Powered by **Vite** for fast development and optimized builds.
 
 ---
 
