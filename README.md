@@ -4,6 +4,8 @@ A responsive weather application built using **Vite + React + Material UI** that
 
 This project fetches live weather data from the **OpenWeatherMap API** and displays it in a clean and user-friendly layout with dynamic visuals based on weather conditions.
 
+**Live Website:** [https://weather-app-zeta-wheat-61.vercel.app/](https://weather-app-zeta-wheat-61.vercel.app/)
+
 ---
 
 ##  Features
